@@ -25,13 +25,16 @@ This project was developed as part of my practical software development work to 
    ```bash
    git clone https://github.com/Tshepomabs16/Edulink-Central.git
 2. Open the project folder:
+   ```bash
    cd Edulink-Central
 3. Install dependencies:
+   ```bash
    npm install
 5. Start the development server:
+   ```bash
    npm run dev
 
-Future Improvements:
+##Future Improvements:
 
    Improved authentication and authorization
    More educational tools and dashboards
