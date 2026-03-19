@@ -36,7 +36,11 @@ This project was developed as part of my practical software development work to 
 
 ##Future Improvements:
 
-   Improved authentication and authorization
-   More educational tools and dashboards
-   Better UI/UX polish
-   Expanded content management features
+- Improved authentication and authorization
+- More educational tools and dashboards
+- Better UI/UX polish
+- Expanded content management features
+
+##Author
+Tshepo Maabane
+Github: https://github.com/Tshepomabs16?utm_source=chatgpt.com
