@@ -34,13 +34,13 @@ This project was developed as part of my practical software development work to 
    ```bash
    npm run dev
 
-##Future Improvements:
+## Future Improvements:
 
 - Improved authentication and authorization
 - More educational tools and dashboards
 - Better UI/UX polish
 - Expanded content management features
 
-##Author
+## Author
 Tshepo Maabane
 Github: https://github.com/Tshepomabs16?utm_source=chatgpt.com
